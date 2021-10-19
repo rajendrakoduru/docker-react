@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../simpleweb"
+		},
+		{
+			"path": "../visits"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
